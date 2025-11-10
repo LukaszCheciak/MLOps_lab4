@@ -210,3 +210,5 @@ __marimo__/
 #data 
 initdb.d/
 data/
+milvus_db/volumes/
+images/
